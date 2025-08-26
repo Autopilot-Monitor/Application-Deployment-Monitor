@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/34255157-d880-4ea2-b959-52ed662b4ad0" />
+<img width="1536" height="624" alt="image" src="https://github.com/user-attachments/assets/c9bebc1b-990c-45b7-ba11-3b125876d39b" />
+
 
 <div align="center">
   <a href="https://opensource.org/licenses/MIT">
