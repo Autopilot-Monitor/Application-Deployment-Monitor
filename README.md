@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <img width="75" height="75" alt="logo" src="https://github.com/user-attachments/assets/83129935-00d9-4ff2-8a81-02d44aedf202" />
-  <h1 style="margin: 0 0 0 12px;">Autopilot-Application-Deployment-Monitor</h1>
+  <h1 style="margin: 0 0 0 12px; font-size: 2.2em;">Autopilot-Application-Deployment-Monitor</h1>
 </div>
 
 <div align="center">
