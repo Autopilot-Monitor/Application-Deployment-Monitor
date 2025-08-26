@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <img width="75" height="75" alt="logo" src="https://github.com/user-attachments/assets/83129935-00d9-4ff2-8a81-02d44aedf202" />
   <h1 style="margin-left: 10px;">Autopilot-Application-Deployment-Monitor</h1>
 </div>
