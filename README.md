@@ -1,4 +1,5 @@
-<img width="1536" height="624" alt="image" src="https://github.com/user-attachments/assets/c9bebc1b-990c-45b7-ba11-3b125876d39b" />
+<img width="1536" height="624" alt="Autopilot-Application-Deployment-Monitor" src="https://github.com/user-attachments/assets/2db8cc64-8ea5-4273-9162-66a78e16899f" />
+
 
 
 <div align="center">
